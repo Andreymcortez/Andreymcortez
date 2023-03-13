@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A passionate backend and data analytics from Brazil. Actually i have some experience with Excel, SQL, Python, Javascript, HTML and CSS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreymcortez&label=Profile%20views&color=0e75b6&style=plastic" alt="andreymcortez" /> </p>
-
 - 🔭 I’m currently working in **audit/consulting. But i'm technology enthusiast, and i love to learn new things.**
 
 - 🌱 I’m currently learning **Typescript, Django, Pandas, ReactJS and NodeJS.**
@@ -29,12 +27,14 @@
 
 <hr>
 <div>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/andreymcortez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreymcortez" /></a></p><br><br>
+<h3 align="top">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/andreymcortez"> <img align="top" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreymcortez" /></a></p>
  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="top">Connect with me:</h3>
+<p align="top">
 <a href="https://linkedin.com/in/andreydson-cortez-922bb212b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreydson-cortez-922bb212b" height="30" width="40" /></a>
 <a href="https://instagram.com/andreymcortez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreymcortez" height="30" width="40" /></a>
-</p>
+ </p>
+ 
+ <p align="top"> <img src="https://komarev.com/ghpvc/?username=andreymcortez&label=Profile%20views&color=0e75b6&style=plastic" alt="andreymcortez" /> </p>
 </div>
